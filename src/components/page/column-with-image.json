@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_column_with_images",
+  "info": {
+    "displayName": "Column with image"
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

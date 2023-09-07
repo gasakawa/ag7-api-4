@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_card_only_texts",
+  "info": {
+    "displayName": "Card only text",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Subtitle": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

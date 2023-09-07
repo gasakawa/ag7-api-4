@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_page_card_with_icons",
+  "info": {
+    "displayName": "Card with Icon",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

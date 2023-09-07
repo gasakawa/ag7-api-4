@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_page_card_with_image_and_texts",
+  "info": {
+    "displayName": "Card with image and text",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
